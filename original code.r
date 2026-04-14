@@ -19,19 +19,23 @@ library(spatstat)
 
 
 test2 <- homicides15 %>%
-  filter(city_name=="Chicago")
+  filter(city_name=="Chicago") ## filtering homicides15 to chicago homicides
 
-df_time=data.frame(time=test2$date_single)
+df_time=data.frame(time=test2$date_single) ## gets the time of the homocides
 
 
-weekly_data <- df_time %>%
+weekly_data <- df_time %>% ## 
   mutate(week = cut(time,breaks = "week")) %>%
   group_by(week) %>%
-  summarize(tot=n())
+  summarize(tot=n()) ## provides # of homocides for the week
 
-data_weekly <- weekly_data
+data_weekly <- weekly_data 
 
-acf_result <- acf(data_weekly$tot, plot = FALSE)
+acf_result <- acf(data_weekly$tot, plot = FALSE) ## provides auto-correlation
+'''
+autocorrelation:  estimates of the autocovariance or autocorrelation function
+'''
+
 
 # Create a data frame with ACF values and lag
 acf_data <- data.frame(lag = acf_result$lag, acf = acf_result$acf)
