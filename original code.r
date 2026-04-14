@@ -24,7 +24,7 @@ test2 <- homicides15 %>%
 df_time=data.frame(time=test2$date_single) ## gets the time of the homocides
 
 
-weekly_data <- df_time %>% ## 
+weekly_data <- df_time %>% 
   mutate(week = cut(time,breaks = "week")) %>%
   group_by(week) %>%
   summarize(tot=n()) ## provides # of homocides for the week
@@ -32,6 +32,7 @@ weekly_data <- df_time %>% ##
 data_weekly <- weekly_data 
 
 acf_result <- acf(data_weekly$tot, plot = FALSE) ## provides auto-correlation
+
 '''
 autocorrelation:  estimates of the autocovariance or autocorrelation function
 This tells us the likelihood that an outcome happens that way again in the next/previous week. 
@@ -60,6 +61,10 @@ ggplot(acf_data, aes(x = lag, y = acf)) +
 
 
 # Aggregate data by week
+'''
+He did this already above when he assigned weekly_data to data_weekly. So idk 
+why he did it again unless he forgot about it. 
+'''
 data_weekly <-  df_time %>%
   mutate(week = as.Date(cut(time, breaks = "week"))) %>%
   group_by(week) %>%
@@ -86,23 +91,24 @@ ggplot(data_weekly, aes(x = week)) +
 
 
 
-time <- test2$date_single
+time <- test2$date_single ## gets the datetime for the homicides
 
-time<-as.numeric(difftime(time,min(na.omit(time)),units="days"))
+time<-as.numeric(difftime(time,min(na.omit(time)),units="days")) 
+## puts time into a float with 0 being the earliest crime. units are days.  
 
-x<- test2$latitude-min(test2$latitude)
+x<- test2$latitude-min(test2$latitude) ## how far off the lat of all murders are from the minimum latitude
+## sort of like mean squared error but not
 
-y<- test2$longitude-min(test2$longitude)
+y<- test2$longitude-min(test2$longitude) ## see above
 
-df<-data.frame(x = x,y=y,t=time)
+df<-data.frame(x = x,y=y,t=time) ## how far away from the min lat and long a crime is and when it happened.
 
 
 #df <- df %>% mutate(t=(t-min(t))/(max(t)-min(t)))
 
 region<-data.frame(x=c(min(x),max(x)),
                    y=c(min(y),max(y)),
-                   t=c(min(df2$t),max(df2$t)))
-
+                   t=c(min(df2$t),max(df2$t))) # the range of values
 
 
 ##params<-data.frame(beta0=.5,theta=.3,lambda=.1,sigma2=.2)
@@ -118,6 +124,9 @@ df2 <- df %>% distinct()
 
 
 #Spatially Visualize Data
+'''
+A dot plot that shows the clusters of crime based on lat/long
+'''
 df2 %>% ggplot(aes(x=x,y=y)) + 
   geom_point() + 
   theme_bw() + ggtitle("Homicide Locations in Chicago (2015)")
@@ -125,13 +134,16 @@ df2 %>% ggplot(aes(x=x,y=y)) +
 
 
 
-points_spat <- sf::st_as_sf(df2,coords=c("x","y"))
+points_spat <- sf::st_as_sf(df2,coords=c("x","y"))  ## this converts x and y into spaitial data
 
 
 #Create Boundary
 asdf <- points_spat %>% 
   summarise() %>% 
   concaveman::concaveman(concavity = 10)
+'''
+this creates a concave hull around our points! 
+'''
 
 #Create INLA Mesh
 bnd <- INLA::inla.mesh.segment(as.matrix(sf::st_coordinates(asdf)[, 1:2]))
@@ -148,26 +160,42 @@ smesh <- fmesher::fm_mesh_2d_inla(
 plot(smesh)
 #lines(asdf,lwd=2,col="green4")
 #Visualize Points on MESH
-points(cbind(df$x,df$y),pch = 19, col="blue")
+points(cbind(df$x,df$y),pch = 10, col="blue")
 
 
 
 df_spat <- data.frame(x=df$x,y=df$y)
 
 w <- as.owin(list(xrange=c(0,0.365), yrange=c(0,.298814)))
+print(w) ## window: rectangle = [0, 0.365] x [0, 0.298814] units
+
 
 df_ppp <- as.ppp(df_spat,W=w)
+## planar point pattern is standard for spaital analysis
+
 
 #Calculate Border corrected K function
 K_est <- Kest(df_ppp, correction = "border")
+'''
+Kest function: determines if events are clustered or not
+clustered vals have large K(s) vals
+returns: 
+r - The vector of distances at which the function is evaluated.
+theo - theoretical value of the function for a stationary possion process %%%%%%%%%% I THINK we might be able to change this to a linear possion process
+correction = border is "fastest but least statistically efficent" ... we could do isotropic since we have a polygon window
+'''
 
 #Calculate LGCP K function fit to empirical K function
-LGCP<- lgcp.estK(K_est)
+'''
+Log-Gaussian Cox Process
+- probabalistic model of point patterns observed in space time
+'''
+LGCP<- lgcp.estK(K_est) 
 plot(LGCP)
 
 #Calculate Matern Cluster Process K function fit to empirical K function
 Mat_Clus <- matclust.estK(K_est)
-plot(Mat_Clus)
+plot(Mat_Clus) ## computationally effeicent way to fit k function to empirical k function given by K-est
 
 
 locs <- df_spat
@@ -178,7 +206,7 @@ fit <- fit_lgcp(locs = locs, sf = domain, smesh = smesh,
                 parameters = c(beta = 0, log_tau = log(1),
                                log_kappa = log(1)))
 
-show_lambda(fit, smesh = smesh, sf = domain) + ggplot2::theme_void()
+show_lambda(fit, smesh = smesh, sf = domain) + ggplot2::theme_void() ### heat map esque 
 
 
 #bnd <- INLA::inla.mesh.segment(as.matrix(sf::st_coordinates(domain)[,1:2]))
