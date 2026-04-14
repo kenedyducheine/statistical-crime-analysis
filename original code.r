@@ -34,6 +34,10 @@ data_weekly <- weekly_data
 acf_result <- acf(data_weekly$tot, plot = FALSE) ## provides auto-correlation
 '''
 autocorrelation:  estimates of the autocovariance or autocorrelation function
+This tells us the likelihood that an outcome happens that way again in the next/previous week. 
+So a high homicide week followed by another high homicide week -> it has a high positive lag value for lag 1 (aka the lag 1 = following week, lag 2 = the week after)
+For this data, there is not any particualr week with a acf value. This sort of implies that the number of homicides in one week are slightly 
+irrelevant to the next week
 '''
 
 
