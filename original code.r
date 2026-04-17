@@ -24,7 +24,7 @@ test2 <- homicides15 %>%
 df_time=data.frame(time=test2$date_single) ## gets the time of the homocides
 
 
-weekly_data <- df_time %>% 
+weekly_data <- df_time %>% ## 
   mutate(week = cut(time,breaks = "week")) %>%
   group_by(week) %>%
   summarize(tot=n()) ## provides # of homocides for the week
@@ -52,18 +52,19 @@ ggplot(acf_data, aes(x = lag, y = acf)) +
   geom_point(color = "red", size = 3) +
   labs(title = "Autocorrelation Function (ACF)",
        x = "Lag",
-       y = "ACF",
-       caption = "Autocorrelation of weekly values") +
+       y = "ACF", 
+       caption = "Autocorrelation of weekly values") 
   theme_minimal(base_size = 15) +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"),
         plot.caption = element_text(hjust = 0.5))
 
 
 
-# Aggregate data by week
+# Aggregate data by week 
 '''
 He did this already above when he assigned weekly_data to data_weekly. So idk 
 why he did it again unless he forgot about it. 
+as.Data did not like do anything
 '''
 data_weekly <-  df_time %>%
   mutate(week = as.Date(cut(time, breaks = "week"))) %>%
@@ -92,12 +93,15 @@ ggplot(data_weekly, aes(x = week)) +
 
 
 time <- test2$date_single ## gets the datetime for the homicides
+print(time)
 
 time<-as.numeric(difftime(time,min(na.omit(time)),units="days")) 
 ## puts time into a float with 0 being the earliest crime. units are days.  
+print(time)
 
-x<- test2$latitude-min(test2$latitude) ## how far off the lat of all murders are from the minimum latitude
+x<- test2$latitude-min(test2$latitude) ## how far off the lat of all murders are from the minimum
 ## sort of like mean squared error but not
+print(x)
 
 y<- test2$longitude-min(test2$longitude) ## see above
 
@@ -111,12 +115,6 @@ region<-data.frame(x=c(min(x),max(x)),
                    t=c(min(df2$t),max(df2$t))) # the range of values
 
 
-##params<-data.frame(beta0=.5,theta=.3,lambda=.1,sigma2=.2)
-
-
-#hawkes_est(df2,params,region)
-
-
 
 
 #Remove Duplicates
@@ -124,31 +122,23 @@ df2 <- df %>% distinct()
 
 
 #Spatially Visualize Data
-'''
-A dot plot that shows the clusters of crime based on lat/long
-'''
+
 df2 %>% ggplot(aes(x=x,y=y)) + 
   geom_point() + 
   theme_bw() + ggtitle("Homicide Locations in Chicago (2015)")
-  
 
 
 
-points_spat <- sf::st_as_sf(df2,coords=c("x","y"))  ## this converts x and y into spaitial data
+points_spat <- sf::st_as_sf(df2,coords=c("x","y")) ## this converts x and y into spaitial data
 
 
 #Create Boundary
 asdf <- points_spat %>% 
   summarise() %>% 
   concaveman::concaveman(concavity = 10)
-'''
-this creates a concave hull around our points! 
-'''
 
 #Create INLA Mesh
 bnd <- INLA::inla.mesh.segment(as.matrix(sf::st_coordinates(asdf)[, 1:2]))
-#smesh <- INLA::inla.mesh.2d(boundary = bnd,
-#                            max.edge = 0.75, cutoff = 0.3)
 
 
 domain=asdf
@@ -163,42 +153,51 @@ plot(smesh)
 points(cbind(df$x,df$y),pch = 10, col="blue")
 
 
-
-df_spat <- data.frame(x=df$x,y=df$y)
+#### Analysis 
+df_spat <- data.frame(x=df$x,y=df$y) 
+print(df_spat)
 
 w <- as.owin(list(xrange=c(0,0.365), yrange=c(0,.298814)))
-print(w) ## window: rectangle = [0, 0.365] x [0, 0.298814] units
-
+ ## window: rectangle = [0, 0.365] x [0, 0.298814] units
 
 df_ppp <- as.ppp(df_spat,W=w)
 ## planar point pattern is standard for spaital analysis
 
 
-#Calculate Border corrected K function
-K_est <- Kest(df_ppp, correction = "border")
-'''
-Kest function: determines if events are clustered or not
-clustered vals have large K(s) vals
-returns: 
-r - The vector of distances at which the function is evaluated.
-theo - theoretical value of the function for a stationary possion process %%%%%%%%%% I THINK we might be able to change this to a linear possion process
-correction = border is "fastest but least statistically efficent" ... we could do isotropic since we have a polygon window
-'''
+### ppp 
+fit <- ppm(df_ppp ~ polynom(x, y, 3)) ## fitting a cubic model to the planar point pattern 
+summary(fit) 
 
-#Calculate LGCP K function fit to empirical K function
-'''
-Log-Gaussian Cox Process
-- probabalistic model of point patterns observed in space time
-'''
-LGCP<- lgcp.estK(K_est) 
-plot(LGCP)
-
-#Calculate Matern Cluster Process K function fit to empirical K function
-Mat_Clus <- matclust.estK(K_est)
-plot(Mat_Clus) ## computationally effeicent way to fit k function to empirical k function given by K-est
+Get fitted intensity at each point
+lambda_hat <- predict(fit, locations = df_ppp) ## determining the intensity at each point
 
 
-locs <- df_spat
+### Computing inhomogeneous K-function
+K_inhom <- Kinhom(df_ppp, lambda = lambda_hat, correction = "iso") ## estimates k function of non-homogenous point pattern
+plot(K_inhom, main = "Inhomogenous K function") 
+plot(predict(fit)) 
+
+diff <- K_inhom$iso - K_inhom$theo
+print(mean(diff))
+
+# Plot the difference
+plot(K_inhom$r, diff, type = "l",
+     xlab = "r", ylab = "K hat(r) - K theo(r)",
+     main = "Difference Between Estimated and Theoretical K")
+
+
+
+### Computing homogenous K-function 
+K_hom <- Kest(df_ppp, correction = "iso") 
+print(K_hom)
+plot(K_hom, main = "Homogenous K function")
+
+
+diff <- K_hom$iso - K_hom$theo
+print(mean(diff))
+
+
+locs <- df_spat #
 
 
 #Fit Spatial only LGCP to data (Not shown in Paper)
@@ -206,12 +205,7 @@ fit <- fit_lgcp(locs = locs, sf = domain, smesh = smesh,
                 parameters = c(beta = 0, log_tau = log(1),
                                log_kappa = log(1)))
 
-show_lambda(fit, smesh = smesh, sf = domain) + ggplot2::theme_void() ### heat map esque 
-
-
-#bnd <- INLA::inla.mesh.segment(as.matrix(sf::st_coordinates(domain)[,1:2]))
-
-#smesh <- INLA::inla.mesh.2d(boundary = bnd)
+show_lambda(fit, smesh = smesh, sf = domain) + ggplot2::theme_void()
 
 
 #locs_st <- df
@@ -222,11 +216,6 @@ df<-df %>%
 
 
 df2 <- data.frame(x=df$x,y=df$y,t=df$t)
-
-#bnd <- INLA::inla.mesh.segment(as.matrix(sf::st_coordinates(domain)[, 1:2]))
-
-#smesh <- INLA::inla.mesh.2d(boundary = bnd,
-#                            max.edge = 0.75, cutoff = 0.3)
 
 w0 <- 30
 
@@ -262,7 +251,7 @@ param <- list(mu = 1, alpha = 20, beta = 200, kappa = 2, tau = 0.1,
 
 Hawkes_fit <- fit_stelfi(times=df_stelfi$t, locs=locs, 
                          sf=domain,smesh=smesh,parameters=param,
-                         GMRF = T)
+                         GMRF = T) 
 
 
 get_coefs(Hawkes_fit)
