@@ -1,0 +1,500 @@
+"uid","city_name","offense_code","offense_type","date_single","address","longitude","latitude","location_type","location_category","fips_state","fips_county","tract","block_group","block"
+2872478,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-03 05:50:00,"050XX W SUPERIOR ST",-87.751482,41.894009,"street","street",17,"031","251600",1,1002
+2873990,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-05 22:11:00,"035XX W 77TH PL",-87.710383,41.752417,"residence","residence",17,"031","700100",1,1044
+2874041,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-06 00:49:00,"093XX S BURNSIDE AVE",-87.607485,41.723546,"street","street",17,"031","490400",1,1023
+2874296,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-06 15:38:00,"022XX E 79TH ST",-87.570235,41.751678,"street","street",17,"031","460500",1,1003
+2874356,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-06 17:53:00,"022XX E 79TH ST",-87.570235,41.751678,"street","street",17,"031","460500",1,1003
+2875361,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-08 21:30:00,"012XX S ALBANY AVE",-87.703136,41.865562,"private vehicle","vehicle",17,"031","843100",1,1016
+2875743,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-09 16:20:00,"011XX W MARQUETTE RD",-87.653434,41.772347,"residence","residence",17,"031","681000",1,1018
+2876002,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-10 00:25:00,"000XX S KOSTNER AVE",-87.735464,41.880299,"street","street",17,"031","260600",1,1001
+2878279,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-13 17:40:00,"042XX S ROCKWELL ST",-87.689553,41.816502,"street","street",17,"031","580600",3,3000
+2878439,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-13 22:10:00,"039XX S CALUMET AVE",-87.61854,41.823354,"street","street",17,"031","835900",2,2012
+2878910,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-14 17:22:00,"081XX S ARTESIAN AVE",-87.684024,41.745712,"residence","residence",17,"031","700501",1,1026
+2880417,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-16 19:22:00,"024XX W 58TH ST",-87.684422,41.788383,"street","street",17,"031","835100",1,1033
+2880940,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-17 13:26:00,"040XX W 13TH ST",-87.725422,41.864338,"private vehicle","vehicle",17,"031","290900",1,1010
+2881150,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-17 19:10:00,"096XX S GREEN ST",-87.644364,41.718889,"street","street",17,"031","730400",1,1017
+2881607,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-18 12:20:00,"021XX W WARREN BLVD",-87.679713,41.882185,"private vehicle","vehicle",17,"031","837800",2,2024
+2882935,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-20 10:44:00,"078XX S COLES AVE",-87.552135,41.753758,"residence","residence",17,"031","431400",3,3011
+2883518,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-21 00:42:00,"053XX S MAY ST",-87.653743,41.797278,"residence","residence",17,"031","612000",2,2013
+2883654,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-21 09:25:00,"066XX S OAKLEY AVE",-87.680908,41.772959,"other open space","open space",17,"031","660700",2,2002
+2884064,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-21 19:39:00,"050XX S RACINE AVE",-87.65508,41.802277,"street","street",17,"031","611100",2,2003
+2885574,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-23 19:25:00,"079XX S VINCENNES AVE",-87.634297,41.750472,"vehicle parking","open space",17,"031","842400",3,3000
+2885620,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-23 20:18:00,"067XX S WESTERN AVE",-87.683413,41.770981,"street","street",17,"031","660700",2,2006
+2885844,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-24 02:13:00,"045XX W WEST END AVE",-87.739535,41.883196,"street","street",17,"031","260400",1,1020
+2888008,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-27 11:54:00,"035XX W 24TH ST",-87.712759,41.848054,"street","street",17,"031","300700",1,1013
+2888370,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-27 21:00:00,"006XX E 51ST ST",-87.609676,41.802195,"street","street",17,"031","843600",1,1016
+2889103,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-29 00:01:00,"023XX N MOODY AVE",-87.779311,41.922163,"street","street",17,"031","191301",1,1008
+2889139,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-29 02:06:00,"119XX S YALE AVE",-87.62864,41.677244,"street","street",17,"031","530501",1,1026
+2889144,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-29 03:20:00,"012XX W 32ND ST",-87.657409,41.836079,"street","street",17,"031","600900",4,4014
+2890224,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-30 17:52:00,"070XX S HONORE ST",-87.669925,41.766156,"street","street",17,"031","671500",2,2028
+2890270,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-30 18:53:00,"015XX S TRUMBULL AVE",-87.711579,41.859994,"street","street",17,"031","291200",1,1012
+2890735,"Chicago","09A","murder and nonnegligent manslaughter",2015-01-31 12:02:00,"081XX S CHAPPEL AVE",-87.574686,41.747141,"street","street",17,"031","460500",5,5006
+2891588,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-01 20:53:00,"023XX S MICHIGAN AVE",-87.623741,41.85036,"residence","residence",17,"031","841000",1,1029
+2891746,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-02 09:16:00,"004XX E 48TH PL",-87.61534,41.806671,"residence","residence",17,"031","381200",1,1009
+2892085,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-02 23:33:00,"100XX S MICHIGAN AVE",-87.620107,41.712456,"gas station","retail",17,"031","490800",3,3020
+2892917,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-04 16:07:00,"031XX W 84TH PL",-87.700293,41.739787,"residence","residence",17,"031","700502",2,2010
+2893228,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-05 07:00:00,"119XX S YALE AVE",-87.62864,41.677244,"street","street",17,"031","530501",1,1026
+2895342,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-08 12:15:00,"113XX S PARNELL AVE",-87.636199,41.6881,"residence","residence",17,"031","491200",2,2000
+2895682,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-08 23:26:00,"060XX W GRAND AVE",-87.776146,41.920657,"street","street",17,"031","191301",2,2000
+2895895,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-09 11:10:00,"002XX S LOTUS AVE",-87.761703,41.876796,"street","street",17,"031","252102",1,1014
+2896238,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-09 21:31:00,"001XX N WOOD ST",-87.671812,41.883811,"residence","residence",17,"031","280400",1,1042
+2896250,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-09 21:56:00,"051XX W CRYSTAL ST",-87.754382,41.90317,"street","street",17,"031","250800",2,2008
+2896293,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-10,"025XX N LONG AVE",-87.761154,41.92641,"street","street",17,"031","190702",1,1007
+2896885,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-10 22:25:00,"016XX N KEELER AVE",-87.731237,41.910499,"street","street",17,"031","230500",2,2012
+2899409,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-15 04:21:00,"014XX W 71ST ST",-87.659311,41.764975,"street","street",17,"031","671600",2,2023
+2901984,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-20 03:17:00,"020XX W FULLERTON AVE",-87.679563,41.925005,"street","street",17,"031","830900",1,1024
+2902403,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-20 18:41:00,"056XX S GREEN ST",-87.64631,41.791995,"street","street",17,"031","834700",1,1007
+2902959,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-21 17:44:00,"013XX W LELAND AVE",-87.663141,41.967147,"street","street",17,"031","031700",1,1004
+2903551,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-22 15:20:00,"020XX W 69TH ST",-87.674333,41.768432,"street","street",17,"031","671500",2,2005
+2905045,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-25 06:37:00,"071XX N CLARK ST",-87.67452,42.011894,"street","street",17,"031","010702",4,4003
+2905288,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-25 15:09:00,"046XX W MAYPOLE AVE",-87.741459,41.884499,"street","street",17,"031","251800",3,3008
+2905443,"Chicago","09A","murder and nonnegligent manslaughter",2015-02-25 19:45:00,"114XX S PRAIRIE AVE",-87.616838,41.686521,"residence","residence",17,"031","491400",3,3017
+2908405,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-02 19:20:00,"105XX S YATES AVE",-87.564453,41.703645,"street","street",17,"031","838800",2,2051
+2911102,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-07 01:52:00,"010XX W 18TH ST",-87.652876,41.858003,"private vehicle","vehicle",17,"031","310400",1,1005
+2911103,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-07 01:52:00,"010XX W 18TH ST",-87.652876,41.858003,"private vehicle","vehicle",17,"031","310400",1,1005
+2911467,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-07 16:41:00,"020XX W 47TH ST",-87.674818,41.808509,"vehicle parking","open space",17,"031","610300",3,3020
+2911807,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-08 03:00:00,"003XX S ALBANY AVE",-87.703547,41.876896,"residence","residence",17,"031","271200",1,1044
+2912169,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-08 18:33:00,"065XX S KIMBARK AVE",-87.594552,41.776177,"residence","residence",17,"031","834400",2,2016
+2912510,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-09 09:36:00,"028XX S AVERS AVE",-87.720775,41.840021,"residence","residence",17,"031","301702",2,2000
+2912703,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-09 14:52:00,"009XX W AGATITE AVE",-87.65337,41.962701,"street","street",17,"031","031502",1,1007
+2912914,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-09 19:41:00,"002XX W 105TH ST",-87.629292,41.703445,"street","street",17,"031","491000",3,3011
+2912921,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-09 19:53:00,"092XX S ADA ST",-87.656705,41.725845,"street","street",17,"031","730201",5,5001
+2917009,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-15 04:49:00,"050XX N HARDING AVE",-87.726936,41.972463,"residence","residence",17,"031","140302",3,3005
+2917212,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-15 13:21:00,"058XX W PATTERSON AVE",-87.77257,41.946726,"street","street",17,"031","150600",3,3011
+2917442,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-15 19:27:00,"058XX W NORTH AVE",-87.77224,41.909296,"street","street",17,"031","250400",3,3012
+2917443,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-15 19:28:00,"058XX W NORTH AVE",-87.77224,41.909296,"street","street",17,"031","250400",3,3012
+2917729,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-16 03:11:00,"016XX W WEBSTER AVE",-87.669189,41.921546,"street","street",17,"031","832300",1,1032
+2917730,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-16 03:11:00,"016XX W WEBSTER AVE",-87.669189,41.921546,"street","street",17,"031","832300",1,1032
+2919772,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-19 00:49:00,"081XX S NORMAL AVE",-87.636623,41.746875,"street","street",17,"031","842400",3,3026
+2919796,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-19 02:26:00,"001XX S CICERO AVE",-87.745205,41.878458,"private vehicle","vehicle",17,"031","252202",2,2000
+2919969,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-19 11:20:00,"079XX S KEDZIE AVE",-87.702367,41.748772,"street","street",17,"031","700401",1,1032
+2920390,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-19 21:19:00,"009XX N MOZART ST",-87.698019,41.898564,"private vehicle","vehicle",17,"031","242700",1,1002
+2920937,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-20 17:14:00,"030XX E 81ST ST",-87.550032,41.748315,"street","street",17,"031","460100",2,2005
+2921519,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-21 12:32:00,"088XX S WOOD ST",-87.667857,41.733254,"residence","residence",17,"031","711300",2,2008
+2921916,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-22,"003XX S ALBANY AVE",-87.703547,41.876896,"residence","residence",17,"031","271200",1,1044
+2922107,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-22 09:53:00,"109XX S GREEN BAY AVE",-87.541349,41.69683,"street","street",17,"031","520300",4,4025
+2922498,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-22 21:33:00,"022XX W WINNEMAC AVE",-87.684977,41.973109,"street","street",17,"031","040401",1,1011
+2923230,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-24 06:55:00,"028XX W WARREN BLVD",-87.697651,41.881978,"private vehicle","vehicle",17,"031","837000",2,2005
+2924284,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-25 18:24:00,"052XX W FULLERTON AVE",-87.756453,41.924103,"restaurant","leisure",17,"031","190702",3,3020
+2924970,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-26 17:59:00,"052XX W QUINCY ST",-87.755968,41.877555,"residence","residence",17,"031","252102",1,1006
+2925220,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-27 02:04:00,"084XX S STONY ISLAND AVE",-87.585745,41.741171,"private vehicle","vehicle",17,"031","834300",3,3020
+2925942,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-28 02:13:00,"022XX S MICHIGAN AVE",-87.623784,41.852089,"bar/club","leisure",17,"031","841000",1,1021
+2926578,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-29 02:27:00,"122XX S RACINE AVE",-87.651444,41.671517,"street","street",17,"031","530400",1,1033
+2927496,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-30 14:50:00,"057XX S MORGAN ST",-87.649913,41.790142,"street","street",17,"031","680500",2,2016
+2928042,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-31 10:55:00,"012XX W 56TH ST",-87.656534,41.792322,"street","street",17,"031","670100",1,1006
+2928095,"Chicago","09A","murder and nonnegligent manslaughter",2015-03-31 12:19:00,"028XX N MAPLEWOOD AVE",-87.691586,41.932724,"residence","residence",17,"031","210900",2,2001
+2929186,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-01 19:05:00,"030XX W 71ST ST",-87.698321,41.76445,"street","street",17,"031","660900",3,3006
+2929411,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-02 00:51:00,"068XX S JEFFERY BLVD",-87.576435,41.771097,"residence","residence",17,"031","430200",1,1005
+2929453,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-02 02:26:00,"021XX W 71ST PL",-87.676543,41.763864,"street","street",17,"031","672000",4,4002
+2930048,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-02 21:08:00,"001XX E 69TH ST",-87.620944,41.769233,"street","street",17,"031","690400",3,3000
+2930256,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-03 07:00:00,"088XX S COTTAGE GROVE AVE",-87.604746,41.733496,"street","street",17,"031","440700",1,1019
+2930405,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-03 12:08:00,"058XX S DR MARTIN LUTHER KING JR DR",-87.615826,41.788411,"street","street",17,"031","400400",2,2007
+2930481,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-03 14:37:00,"070XX S NORMAL BLVD",-87.637182,41.766637,"street","street",17,"031","681200",2,2007
+2931105,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-04 12:18:00,"065XX S MARSHFIELD AVE",-87.665365,41.775027,"street","street",17,"031","671200",1,1012
+2931266,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-04 17:07:00,"078XX S SEELEY AVE",-87.674386,41.751437,"street","street",17,"031","710400",6,6010
+2933482,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-08 02:53:00,"027XX W BLOOMINGDALE AVE",-87.695041,41.913926,"street","street",17,"031","832400",1,1011
+2933665,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-08 11:37:00,"025XX E 84TH ST",-87.563141,41.742685,"street","street",17,"031","460400",3,3015
+2933762,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-08 14:25:00,"066XX W BELDEN AVE",-87.792007,41.9212,"residence","residence",17,"031","831600",4,4001
+2935404,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-10 23:16:00,"113XX S GREEN ST",-87.643463,41.688141,"residence","residence",17,"031","750600",1,1004
+2936016,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-11 21:27:00,"004XX E 72ND ST",-87.614717,41.763895,"private vehicle","vehicle",17,"031","690900",5,5003
+2938430,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-15 03:16:00,"045XX N BROADWAY",-87.656682,41.964164,"street","street",17,"031","830700",4,4003
+2938892,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-15 17:50:00,"025XX W MOFFAT ST",-87.690517,41.914828,"residence","residence",17,"031","832400",2,2011
+2940611,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-18 00:55:00,"010XX N SPRINGFIELD AVE",-87.723783,41.90004,"street","street",17,"031","231200",4,4014
+2940626,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-18 01:22:00,"026XX W CHICAGO AVE",-87.69289,41.895681,"restaurant","leisure",17,"031","242600",3,3010
+2941485,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-19 05:38:00,"023XX S WASHTENAW AVE",-87.692906,41.848848,"private vehicle","vehicle",17,"031","301200",3,3007
+2941498,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-19 06:35:00,"027XX N LAVERGNE AVE",-87.751479,41.930801,"street","street",17,"031","190800",5,5002
+2941499,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-19 06:35:00,"027XX N LAVERGNE AVE",-87.751479,41.930801,"street","street",17,"031","190800",5,5002
+2942482,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-20 15:54:00,"060XX S DR MARTIN LUTHER KING JR DR",-87.615738,41.784744,"street","street",17,"031","400800",1,1000
+2942718,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-20 22:17:00,"102XX S MAY ST",-87.651379,41.708145,"street","street",17,"031","730600",2,2059
+2942801,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-21 02:35:00,"000XX W 43RD ST",-87.626547,41.816485,"private vehicle","vehicle",17,"031","380500",1,1007
+2943038,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-21 13:49:00,"034XX W OGDEN AVE",-87.71189,41.855574,"convenience store","retail",17,"031","841400",1,1001
+2943354,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-21 22:11:00,"072XX S BENNETT AVE",-87.579312,41.763662,"private vehicle","vehicle",17,"031","430500",1,1003
+2944585,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-23 18:10:00,"014XX E 73RD ST",-87.589322,41.762386,"street","street",17,"031","430400",2,2011
+2944988,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-24 10:20:00,"070XX S TALMAN AVE",-87.689396,41.765888,"street","street",17,"031","660900",3,3035
+2945517,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-24 23:21:00,"093XX S LA SALLE ST",-87.627529,41.724651,"residence","residence",17,"031","834000",2,2018
+2945604,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-25 02:26:00,"034XX S HAMILTON AVE",-87.678974,41.831182,"other open space","open space",17,"031","840300",3,3019
+2946553,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-26 13:15:00,"035XX W FLOURNOY ST",-87.713942,41.872682,"street","street",17,"031","271500",1,1006
+2946858,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-26 21:58:00,"087XX S LAFAYETTE AVE",-87.625429,41.735753,"street","street",17,"031","842400",2,2070
+2948032,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-28 15:30:00,"132XX S FORRESTVILLE AVE",-87.608534,41.654961,"street","street",17,"031","540102",3,3006
+2948639,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-29 12:45:00,"012XX W WASHBURNE AVE",-87.657644,41.866127,"vehicle parking","open space",17,"031","842900",3,3004
+2948722,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-29 14:01:00,"048XX S WINCHESTER AVE",-87.673404,41.805765,"street","street",17,"031","611400",3,3006
+2949214,"Chicago","09A","murder and nonnegligent manslaughter",2015-04-30 07:37:00,"048XX N LAKE SHORE DR NB",-87.648265,41.971126,"street","street",17,"031","031300",1,1002
+2949798,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-01 00:44:00,"080XX S PRINCETON AVE",-87.631814,41.74827,"residence","residence",17,"031","842400",2,2018
+2950320,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-01 17:14:00,"042XX W GRENSHAW ST",-87.731142,41.866997,"street","street",17,"031","843000",2,2023
+2950328,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-01 17:34:00,"042XX W GRENSHAW ST",-87.731142,41.866997,"street","street",17,"031","843000",2,2023
+2950357,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-01 18:15:00,"013XX E 75TH ST",-87.592751,41.758706,"street","street",17,"031","834200",4,4005
+2950602,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-01 23:30:00,"079XX S ABERDEEN ST",-87.651292,41.74963,"other open space","open space",17,"031","710800",5,5013
+2951348,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-03 01:05:00,"031XX W 64TH ST",-87.702353,41.777159,"street","street",17,"031","660600",5,5003
+2953206,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-05 16:49:00,"062XX N BELL AVE",-87.686131,41.995333,"residence","residence",17,"031","020901",3,3001
+2954508,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-07 13:04:00,"083XX S BRANDON AVE",-87.546656,41.743297,"residence","residence",17,"031","460200",2,2024
+2954825,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-07 20:15:00,"070XX S SANGAMON ST",-87.648082,41.766179,"street","street",17,"031","681100",2,2011
+2956080,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-09 13:22:00,"072XX S GREEN ST",-87.64556,41.762687,"street","street",17,"031","681400",1,1014
+2956479,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-10 00:35:00,"074XX S COTTAGE GROVE AVE",-87.605417,41.75941,"street","street",17,"031","841800",1,1018
+2956615,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-10 07:00:00,"047XX N BROADWAY",-87.659261,41.968197,"street","street",17,"031","830700",2,2007
+2956691,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-10 10:42:00,"052XX W THOMAS ST",-87.756563,41.90041,"private vehicle","vehicle",17,"031","251200",4,4001
+2957305,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-11 06:45:00,"049XX W 46TH ST",-87.747198,41.809393,"street","street",17,"031","560200",3,3024
+2959295,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-13 20:05:00,"002XX W 107TH ST",-87.629101,41.699803,"private vehicle","vehicle",17,"031","491000",5,5034
+2959396,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-13 23:23:00,"002XX W 107TH ST",-87.629101,41.699803,"private vehicle","vehicle",17,"031","491000",5,5034
+2959983,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-14 19:24:00,"064XX S DAMEN AVE",-87.673834,41.776697,"street","street",17,"031","671400",1,1015
+2961003,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-16 01:20:00,"013XX W HASTINGS ST",-87.660207,41.864273,"street","street",17,"031","842900",3,3006
+2962664,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-18 00:54:00,"078XX S SOUTH SHORE DR",-87.550636,41.754401,"street","street",17,"031","431400",3,3001
+2962922,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-18 12:16:00,"031XX W 85TH ST",-87.700588,41.738869,"residence","residence",17,"031","700502",2,2014
+2964315,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-20 11:44:00,"022XX W 63RD ST",-87.680195,41.779228,"street","street",17,"031","835000",1,1018
+2964437,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-20 14:53:00,"039XX W SCHOOL ST",-87.725231,41.940939,"residence","residence",17,"031","831100",3,3022
+2964677,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-20 20:12:00,"048XX S KARLOV AVE",-87.725964,41.805495,"residence","residence",17,"031","570300",1,1016
+2965035,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-21 12:12:00,"084XX S COMMERCIAL AVE",-87.551563,41.742653,"street","street",17,"031","460302",3,3000
+2966048,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-22 17:33:00,"013XX W 31ST ST",-87.659655,41.837862,"street","street",17,"031","600900",4,4002
+2966362,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-23 01:46:00,"017XX W PIERCE AVE",-87.671243,41.90982,"street","street",17,"031","241500",1,1009
+2966388,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-23 02:51:00,"010XX W 14TH PL",-87.652193,41.862535,"street","street",17,"031","283800",2,2003
+2966647,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-23 13:15:00,"000XX N LARAMIE AVE",-87.755086,41.880913,"vehicle parking","open space",17,"031","251900",2,2019
+2966836,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-23 18:19:00,"037XX S VINCENNES AVE",-87.611946,41.826376,"street","street",17,"031","360200",1,1007
+2967108,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 00:01:00,"047XX N TROY ST",-87.707213,41.967245,"street","street",17,"031","140800",5,5018
+2967132,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 00:48:00,"079XX S EAST END AVE",-87.582878,41.750779,"street","street",17,"031","460500",7,7010
+2967157,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 01:35:00,"061XX S HONORE ST",-87.670346,41.782259,"street","street",17,"031","670600",2,2001
+2967523,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 16:45:00,"033XX W DIVISION ST",-87.709856,41.9028,"street","street",17,"031","230900",2,2019
+2967541,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 17:25:00,"032XX W MAYPOLE AVE",-87.707502,41.883605,"street","street",17,"031","836800",2,2011
+2967642,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-24 20:20:00,"044XX S COTTAGE GROVE AVE",-87.606667,41.814018,"street","street",17,"031","836000",3,3006
+2968123,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-25 14:33:00,"041XX N HAMLIN AVE",-87.722798,41.956752,"street","street",17,"031","160400",1,1027
+2968309,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-25 19:46:00,"000XX E 36TH PL",-87.624193,41.828743,"street","street",17,"031","351400",1,1010
+2968345,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-25 20:38:00,"049XX W ERIE ST",-87.749475,41.892234,"street","street",17,"031","251600",1,1012
+2970339,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-28 14:40:00,"036XX W 55TH PL",-87.714704,41.792411,"residence","residence",17,"031","620400",1,1004
+2970340,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-28 14:40:00,"036XX W 55TH PL",-87.714704,41.792411,"residence","residence",17,"031","620400",1,1004
+2970795,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-29 02:00:00,"048XX N KENMORE AVE",-87.656236,41.96982,"street","street",17,"031","031200",1,1002
+2971555,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-30,"063XX S COTTAGE GROVE AVE",-87.605919,41.779882,"private vehicle","vehicle",17,"031","420700",1,1000
+2971595,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-30 01:06:00,"009XX W 18TH ST",-87.651092,41.858028,"bar/club","leisure",17,"031","310300",1,1011
+2971612,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-30 01:41:00,"021XX S FAIRFIELD AVE",-87.694241,41.85267,"street","street",17,"031","840700",3,3009
+2971624,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-30 02:04:00,"009XX W OAKDALE AVE",-87.652679,41.93539,"street","street",17,"031","063000",3,3004
+2972002,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-30 15:24:00,"068XX S RIDGELAND AVE",-87.582573,41.770621,"residence","residence",17,"031","430200",4,4002
+2972513,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-31 12:49:00,"000XX E 88TH ST",-87.623079,41.734547,"street","street",17,"031","440600",2,2014
+2972772,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-31 19:48:00,"001XX N CICERO AVE",-87.74539,41.883509,"street","street",17,"031","251800",4,4007
+2972780,"Chicago","09A","murder and nonnegligent manslaughter",2015-05-31 19:58:00,"049XX W LAKE ST",-87.749046,41.886834,"street","street",17,"031","251800",5,5001
+2973415,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-01 15:00:00,"007XX N HAMLIN AVE",-87.721156,41.894337,"street","street",17,"031","231500",6,6012
+2974152,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-02 14:29:00,"001XX N KARLOV AVE",-87.728172,41.882519,"residence","residence",17,"031","260200",1,1022
+2974437,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-02 21:41:00,"064XX S ASHLAND AVE",-87.664158,41.777199,"street","street",17,"031","671100",1,1013
+2975003,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-03 16:50:00,"015XX W CHASE AVE",-87.669053,42.01386,"residence","residence",17,"031","010300",4,4010
+2975964,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-04 22:31:00,"013XX E 94TH ST",-87.591581,41.724092,"street","street",17,"031","470100",2,2043
+2976620,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-05 20:24:00,"013XX W 122ND ST",-87.654207,41.672173,"private vehicle","vehicle",17,"031","530400",2,2020
+2976763,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-05 23:27:00,"023XX S WASHTENAW AVE",-87.692912,41.848977,"street","street",17,"031","301200",3,3006
+2976851,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-06 02:13:00,"001XX W PERSHING RD",-87.629851,41.823668,"street","street",17,"031","340600",1,1028
+2977678,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-07 03:50:00,"016XX N CICERO AVE",-87.746105,41.910118,"street","street",17,"031","250200",2,2011
+2977679,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-07 03:50:00,"016XX N CICERO AVE",-87.746105,41.910118,"street","street",17,"031","250200",2,2011
+2978662,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-08 16:45:00,"078XX S DREXEL AVE",-87.602787,41.752551,"residence","residence",17,"031","691500",3,3008
+2978779,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-08 19:52:00,"092XX S ABERDEEN ST",-87.650639,41.726198,"street","street",17,"031","730202",2,2012
+2979643,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-10 00:01:00,"002XX W 107TH ST",-87.629101,41.699803,"private vehicle","vehicle",17,"031","491000",5,5034
+2979662,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-10 00:44:00,"056XX S ARTESIAN AVE",-87.685215,41.791148,"other open space","open space",17,"031","835100",1,1007
+2980265,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-10 20:35:00,"009XX W 32ND PL",-87.650222,41.835614,"street","street",17,"031","600900",2,2011
+2980854,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-11 15:45:00,"030XX W 63RD ST",-87.69993,41.77902,"street","street",17,"031","660301",1,1018
+2981173,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-12 00:45:00,"085XX W BRYN MAWR AVE",-87.840163,41.981043,"residence","residence",17,"031","760801",2,2011
+2981199,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-12 01:45:00,"042XX S CALUMET AVE",-87.618379,41.817686,"street","street",17,"031","835900",3,3011
+2981437,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-12 12:00:00,"051XX W THOMAS ST",-87.754814,41.900428,"street","street",17,"031","251100",4,4012
+2982129,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-13 05:48:00,"073XX S GREEN ST",-87.645511,41.760774,"residence","residence",17,"031","681400",3,3002
+2982438,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-13 16:45:00,"076XX N ASHLAND AVE",-87.670722,42.02081,"street","street",17,"031","010100",2,2012
+2982771,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-14 00:05:00,"042XX S KEDZIE AVE",-87.70429,41.81604,"street","street",17,"031","580400",1,1001
+2982783,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-14 00:35:00,"044XX S HONORE ST",-87.671175,41.813552,"street","street",17,"031","610300",2,2008
+2983472,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-14 22:16:00,"044XX N BROADWAY",-87.655934,41.962994,"street","street",17,"031","830700",4,4005
+2983580,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-15 01:11:00,"009XX N LOREL AVE",-87.759409,41.897649,"street","street",17,"031","251200",3,3000
+2984365,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-16 04:31:00,"079XX S MARYLAND AVE",-87.603941,41.750322,"street","street",17,"031","440101",4,4003
+2984856,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-16 18:12:00,"014XX S MILLARD AVE",-87.716506,41.861873,"street","street",17,"031","838700",4,4000
+2985043,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-16 22:44:00,"034XX W MADISON ST",-87.712162,41.880905,"street","street",17,"031","270500",1,1001
+2985791,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-17 23:38:00,"041XX W CULLERTON ST",-87.728552,41.854357,"street","street",17,"031","292500",2,2003
+2985818,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-18 00:24:00,"044XX N MAGNOLIA AVE",-87.660978,41.962304,"street","street",17,"031","031700",4,4002
+2986192,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-18 15:02:00,"079XX S LANGLEY AVE",-87.607648,41.750768,"street","street",17,"031","440201",1,1012
+2986499,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-18 22:33:00,"066XX S CHAMPLAIN AVE",-87.609438,41.77409,"street","street",17,"031","420700",2,2009
+2986512,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-18 22:46:00,"079XX S STATE ST",-87.624512,41.749798,"residence","residence",17,"031","842400",1,1000
+2987626,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-20 12:02:00,"084XX S COLFAX AVE",-87.561226,41.742255,"residence","residence",17,"031","460400",3,3003
+2988048,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-20 23:15:00,"042XX W DIVISION ST",-87.732468,41.902572,"street","street",17,"031","842100",4,4008
+2988313,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-21 10:10:00,"001XX N PARKSIDE AVE",-87.766614,41.883264,"private vehicle","vehicle",17,"031","252000",2,2001
+2989951,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-23 14:06:00,"075XX S ELLIS AVE",-87.600499,41.758047,"street","street",17,"031","691500",2,2009
+2990210,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-23 20:57:00,"002XX E 35TH ST",-87.620211,41.831073,"street","street",17,"031","839600",2,2002
+2990358,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-24 00:49:00,"004XX W 75TH ST",-87.634878,41.758069,"street","street",17,"031","691200",1,1004
+2991074,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-25 00:35:00,"014XX S LAWNDALE AVE",-87.717731,41.861972,"private vehicle","vehicle",17,"031","838700",4,4001
+2991557,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-25 17:25:00,"059XX N RIDGE AVE",-87.670508,41.989958,"other retail","retail",17,"031","030400",1,1007
+2991943,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-26 07:00:00,"026XX W 87TH ST",-87.688879,41.735421,"residence","residence",17,"031","700502",1,1030
+2992671,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-27 04:08:00,"045XX S HERMITAGE AVE",-87.668698,41.811531,"private vehicle","vehicle",17,"031","610400",1,1006
+2992907,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-27 14:20:00,"026XX W 51ST ST",-87.689707,41.801061,"street","street",17,"031","630500",4,4000
+2993095,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-27 19:43:00,"073XX S DORCHESTER AVE",-87.590883,41.761822,"residence","residence",17,"031","430400",3,3006
+2993693,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-28 14:38:00,"099XX S STATE ST",-87.623656,41.713771,"street","street",17,"031","490700",1,1000
+2994182,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-29 04:11:00,"019XX N ROCKWELL ST",-87.692269,41.916293,"street","street",17,"031","832400",1,1014
+2994872,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-30 02:28:00,"043XX W FLOURNOY ST",-87.733474,41.872459,"residence","residence",17,"031","261000",1,1035
+2995527,"Chicago","09A","murder and nonnegligent manslaughter",2015-06-30 23:38:00,"111XX S HAMLET AVE",-87.660044,41.691308,"private vehicle","vehicle",17,"031","750600",4,4001
+2996282,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-01 22:18:00,"036XX W 16TH ST",-87.716809,41.858954,"street","street",17,"031","292200",2,2003
+2996895,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-02 19:30:00,"132XX S GREENWOOD AVE",-87.59498,41.655896,"private vehicle","vehicle",17,"031","540101",4,4010
+2996973,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-02 21:06:00,"027XX S KARLOV AVE",-87.726918,41.841917,"street","street",17,"031","301803",1,1003
+2997119,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-03 01:00:00,"048XX S JUSTINE ST",-87.663677,41.805824,"residence","residence",17,"031","611200",2,2006
+2997124,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-03 01:20:00,"091XX S ASHLAND AVE",-87.662827,41.727527,"street","street",17,"031","730201",4,4020
+2997576,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-03 17:31:00,"043XX S CALUMET AVE",-87.618327,41.815751,"green space","open space",17,"031","835800",1,1003
+2998324,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-04 16:00:00,"083XX S DREXEL AVE",-87.60258,41.743299,"residence","residence",17,"031","440102",3,3001
+2998325,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-04 16:00:00,"083XX S DREXEL AVE",-87.60258,41.743299,"residence","residence",17,"031","440102",3,3001
+2998326,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-04 16:00:00,"083XX S DREXEL AVE",-87.60258,41.743299,"residence","residence",17,"031","440102",3,3001
+2998327,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-04 16:00:00,"083XX S DREXEL AVE",-87.60258,41.743299,"residence","residence",17,"031","440102",3,3001
+2998784,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 01:19:00,"077XX S SOUTH SHORE DR",-87.552716,41.75633,"private vehicle","vehicle",17,"031","431400",3,3006
+2998815,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 01:56:00,"011XX N HARDING AVE",-87.725044,41.901427,"street","street",17,"031","231200",5,5007
+2998923,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 04:04:00,"044XX N KIMBALL AVE",-87.713172,41.962126,"street","street",17,"031","140702",2,2009
+2998946,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 05:00:00,"011XX S FRANCISCO AVE",-87.698377,41.867608,"street","street",17,"031","838600",2,2008
+2998970,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 06:10:00,"088XX S BISHOP ST",-87.659339,41.733163,"private vehicle","vehicle",17,"031","711400",1,1017
+2998977,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 07:00:00,"088XX S BISHOP ST",-87.659339,41.733163,"private vehicle","vehicle",17,"031","711400",1,1017
+2999281,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-05 17:00:00,"092XX S HARPER AVE",-87.586697,41.727044,"street","street",17,"031","480300",2,2014
+3000057,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-06 17:32:00,"080XX S PAXTON AVE",-87.571069,41.749321,"street","street",17,"031","460500",6,6000
+3000505,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-07 10:51:00,"020XX E 79TH ST",-87.575286,41.751613,"street","street",17,"031","460500",7,7003
+3001056,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-08 03:09:00,"032XX W HURON ST",-87.708101,41.89371,"street","street",17,"031","836700",1,1006
+3001437,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-08 17:31:00,"080XX S DR MARTIN LUTHER KING JR DR",-87.614907,41.748835,"vehicle parking","open space",17,"031","440201",4,4008
+3002253,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-09 21:58:00,"052XX S EMERALD AVE",-87.644064,41.799031,"street","street",17,"031","843800",2,2011
+3002283,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-09 22:24:00,"066XX S BLACKSTONE AVE",-87.588833,41.774921,"street","street",17,"031","843900",2,2009
+3002789,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-10 17:04:00,"023XX W WASHINGTON BLVD",-87.685085,41.883011,"residence","residence",17,"031","837800",1,1018
+3003055,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-10 23:55:00,"075XX S LANGLEY AVE",-87.607816,41.757649,"street","street",17,"031","691400",1,1006
+3003133,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-11 01:45:00,"003XX N LOREL AVE",-87.758959,41.886368,"street","street",17,"031","251900",1,1002
+3003182,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-11 03:30:00,"002XX S LARAMIE AVE",-87.754989,41.878245,"street","street",17,"031","252102",1,1000
+3003183,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-11 03:39:00,"068XX S LAFAYETTE AVE",-87.6267,41.770215,"private vehicle","vehicle",17,"031","690300",1,1010
+3003467,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-11 14:38:00,"077XX S KINGSTON AVE",-87.562655,41.754825,"street","street",17,"031","431301",2,2004
+3003468,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-11 14:38:00,"009XX E 63RD ST",-87.601399,41.780463,"street","street",17,"031","420800",1,1000
+3004365,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-12 17:21:00,"083XX S BAKER AVE",-87.549515,41.742883,"green space","open space",17,"031","460200",2,2004
+3004744,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-13 04:58:00,"024XX S SAWYER AVE",-87.706351,41.847671,"street","street",17,"031","300800",2,2002
+3006637,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-15 18:30:00,"063XX W FULLERTON AVE",-87.784527,41.923694,"green space","open space",17,"031","190601",2,2012
+3006758,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-15 21:00:00,"049XX W HUBBARD ST",-87.74914,41.888657,"green space","open space",17,"031","251600",2,2013
+3006877,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-16 00:17:00,"013XX N LOCKWOOD AVE",-87.758302,41.904323,"street","street",17,"031","250700",2,2004
+3007620,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-17 04:43:00,"036XX N ST LOUIS AVE",-87.715192,41.947527,"street","street",17,"031","160800",3,3008
+3007652,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-17 07:13:00,"039XX W CONGRESS PKWY",-87.724335,41.874371,"street","street",17,"031","260800",2,2015
+3007897,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-17 14:30:00,"020XX W ARTHUR AVE",-87.680892,41.999696,"street","street",17,"031","020500",1,1002
+3008010,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-17 17:23:00,"046XX N KOSTNER AVE",-87.738568,41.965249,"residence","residence",17,"031","160200",2,2002
+3008011,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-17 17:23:00,"046XX N KOSTNER AVE",-87.738568,41.965249,"residence","residence",17,"031","160200",2,2002
+3008399,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-18 01:20:00,"035XX W GRENSHAW ST",-87.713994,41.867262,"street","street",17,"031","843000",1,1025
+3008459,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-18 03:17:00,"0000X W WACKER DR",-87.630189,41.886931,"street","street",17,"031","839100",1,1012
+3008481,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-18 04:59:00,"074XX S EGGLESTON AVE",-87.635723,41.758903,"street","street",17,"031","681300",1,1018
+3009096,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-19 00:01:00,"005XX N AVERS AVE",-87.722274,41.890359,"street","street",17,"031","231500",5,5016
+3010607,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-20 23:40:00,"074XX N ROGERS AVE",-87.674129,42.016567,"street","street",17,"031","010202",1,1005
+3011302,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-21 21:39:00,"059XX S STATE ST",-87.625501,41.786907,"private vehicle","vehicle",17,"031","834500",1,1015
+3012591,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-23 16:48:00,"035XX N CENTRAL AVE",-87.766699,41.94428,"street","street",17,"031","151100",4,4007
+3013494,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-24 18:45:00,"012XX S KOLIN AVE",-87.733708,41.865109,"street","street",17,"031","290900",4,4013
+3013813,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-25 00:47:00,"049XX W HUBBARD ST",-87.749067,41.888659,"street","street",17,"031","251600",2,2013
+3014550,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-25 23:22:00,"011XX E 73RD ST",-87.597621,41.762318,"street","street",17,"031","841800",2,2046
+3014692,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-26 02:34:00,"006XX N AVERS AVE",-87.722329,41.892604,"private vehicle","vehicle",17,"031","231500",6,6032
+3014693,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-26 02:34:00,"006XX N AVERS AVE",-87.722329,41.892604,"private vehicle","vehicle",17,"031","231500",6,6032
+3014857,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-26 10:14:00,"081XX S MANISTEE AVE",-87.557674,41.747588,"street","street",17,"031","460302",4,4006
+3015238,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-26 20:28:00,"028XX S KEELER AVE",-87.729289,41.83963,"street","street",17,"031","301803",2,2007
+3016595,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-28 14:58:00,"016XX W VAN BUREN ST",-87.668276,41.876329,"street","street",17,"031","838100",3,3000
+3017770,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-30 04:00:00,"003XX E 120TH ST",-87.616015,41.676299,"street","street",17,"031","530600",1,1006
+3018463,"Chicago","09A","murder and nonnegligent manslaughter",2015-07-31 00:10:00,"089XX S HOUSTON AVE",-87.549942,41.733084,"street","street",17,"031","833900",1,1014
+3020242,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-02 01:38:00,"048XX W KAMERLING AVE",-87.746889,41.905073,"street","street",17,"031","831300",1,1028
+3020380,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-02 05:00:00,"117XX S LA SALLE ST",-87.626382,41.680888,"other open space","open space",17,"031","530200",1,1022
+3020463,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-02 09:40:00,"043XX S LAKE SHORE DR SB",-87.594914,41.81649,"green space","open space",17,"031","390100",1,1002
+3020970,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-03 00:01:00,"043XX S WOOD ST",-87.669997,41.815043,"street","street",17,"031","610300",1,1014
+3021688,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-04 00:01:00,"010XX W 14TH ST",-87.652462,41.863459,"vehicle parking","open space",17,"031","283800",2,2002
+3022525,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-05 06:55:00,"075XX S DAMEN AVE",-87.673322,41.756927,"street","street",17,"031","710400",5,5000
+3023171,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-05 23:49:00,"011XX N CENTRAL AVE",-87.765633,41.901558,"street","street",17,"031","251300",1,1000
+3023252,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-06 02:29:00,"013XX W 108TH PL",-87.655758,41.696746,"street","street",17,"031","750100",3,3025
+3023735,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-06 18:52:00,"109XX S PARNELL AVE",-87.636437,41.695616,"street","street",17,"031","491100",3,3007
+3023780,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-06 19:43:00,"109XX S PARNELL AVE",-87.636437,41.695616,"street","street",17,"031","491100",3,3007
+3024046,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-07 02:42:00,"001XX E 117TH ST",-87.6195,41.68157,"street","street",17,"031","530100",2,2002
+3024779,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-07 23:52:00,"064XX S JUSTINE ST",-87.662926,41.777216,"street","street",17,"031","671100",1,1011
+3026341,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-09 23:26:00,"015XX S KILDARE AVE",-87.732322,41.859777,"street","street",17,"031","290900",3,3016
+3026729,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-10 13:49:00,"012XX S ST LOUIS AVE",-87.712933,41.864663,"street","street",17,"031","291200",1,1003
+3027170,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-11 00:01:00,"032XX W 47TH ST",-87.705725,41.808098,"residence","residence",17,"031","580400",3,3002
+3027913,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-11 23:33:00,"007XX E 131ST ST",-87.60314,41.657216,"vehicle parking","open space",17,"031","540102",2,2012
+3028758,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-13 03:10:00,"002XX W 93RD PL",-87.630302,41.724959,"private vehicle","vehicle",17,"031","834000",1,1033
+3029101,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-13 15:42:00,"046XX S WESTERN AVE",-87.684442,41.808924,"street","street",17,"031","580800",1,1000
+3029861,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-14 15:20:00,"001XX W VAN BUREN ST",-87.633296,41.876857,"office","commercial",17,"031","839100",2,2018
+3030310,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-15 02:37:00,"003XX N CENTRAL PARK AVE",-87.716087,41.887474,"street","street",17,"031","836800",1,1003
+3030337,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-15 03:05:00,"059XX S MARSHFIELD AVE",-87.665591,41.786054,"street","street",17,"031","670700",1,1001
+3030632,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-15 14:17:00,"041XX W WILCOX ST",-87.729349,41.878823,"street","street",17,"031","260700",1,1006
+3031447,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-16 13:52:00,"057XX S PAULINA ST",-87.666905,41.78983,"street","street",17,"031","670300",1,1004
+3031814,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-16 22:26:00,"016XX S SPRINGFIELD AVE",-87.722435,41.858029,"street","street",17,"031","292400",1,1002
+3032293,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-17 16:08:00,"016XX S SPRINGFIELD AVE",-87.722435,41.858029,"street","street",17,"031","292400",1,1002
+3032540,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-17 21:45:00,"038XX W MONROE ST",-87.721889,41.879808,"residence","residence",17,"031","260800",1,1004
+3032541,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-17 21:59:00,"043XX W VAN BUREN ST",-87.733698,41.875163,"residence","residence",17,"031","260600",2,2011
+3033393,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-19 01:39:00,"011XX W MORSE AVE",-87.660438,42.008,"residence","residence",17,"031","010400",2,2007
+3033683,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-19 14:09:00,"074XX S HARVARD AVE",-87.633298,41.759111,"other open space","open space",17,"031","691100",3,3006
+3034207,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-20 02:49:00,"027XX N CENTRAL PARK AVE",-87.717157,41.930545,"private vehicle","vehicle",17,"031","220602",5,5010
+3034317,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-20 09:17:00,"069XX S SOUTH SHORE DR",-87.566528,41.769075,"street","street",17,"031","430102",1,1002
+3034978,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-21 02:36:00,"013XX N BURLING ST",-87.647316,41.905651,"residence","residence",17,"031","842200",1,1043
+3035480,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-21 18:24:00,"038XX W LEXINGTON ST",-87.72149,41.871674,"street","street",17,"031","260900",1,1007
+3035905,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-22 04:43:00,"052XX S MENARD AVE",-87.767324,41.79738,"street","street",17,"031","560800",1,1008
+3036490,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-22 22:04:00,"040XX S ALBANY AVE",-87.701958,41.819685,"street","street",17,"031","580501",3,3003
+3036799,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-23 06:13:00,"015XX N AVERS AVE",-87.722849,41.908973,"street","street",17,"031","230700",4,4004
+3037262,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-23 20:51:00,"010XX N LAMON AVE",-87.748348,41.898955,"private vehicle","vehicle",17,"031","251000",1,1014
+3037289,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-23 21:30:00,"024XX W 58TH ST",-87.685431,41.788364,"street","street",17,"031","835100",3,3002
+3037985,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-24 20:45:00,"012XX N KEELER AVE",-87.731232,41.902818,"private vehicle","vehicle",17,"031","230600",5,5011
+3038596,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-25 18:20:00,"050XX S DORCHESTER AVE",-87.591878,41.803951,"private vehicle","vehicle",17,"031","390600",2,2006
+3038617,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-25 18:53:00,"011XX N CICERO AVE",-87.74596,41.901788,"gas station","retail",17,"031","251000",1,1001
+3038812,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-25 22:57:00,"107XX S WENTWORTH AVE",-87.628053,41.698517,"street","street",17,"031","491000",5,5015
+3039083,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-26 11:37:00,"030XX W VAN BUREN ST",-87.702837,41.875909,"green space","open space",17,"031","271200",1,1027
+3039191,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-26 14:07:00,"030XX W VAN BUREN ST",-87.702837,41.875909,"green space","open space",17,"031","271200",1,1027
+3039471,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-26 20:30:00,"011XX W 51ST ST",-87.653497,41.801472,"street","street",17,"031","611000",1,1031
+3041053,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-28 21:20:00,"066XX S MICHIGAN AVE",-87.622724,41.773412,"private vehicle","vehicle",17,"031","842500",1,1036
+3041293,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-29 04:07:00,"030XX W LEXINGTON ST",-87.701565,41.871909,"street","street",17,"031","837300",1,1009
+3041373,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-29 09:42:00,"052XX S LOREL AVE",-87.75634,41.797828,"residence","residence",17,"031","560700",2,2024
+3041374,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-29 09:42:00,"052XX S LOREL AVE",-87.75634,41.797828,"residence","residence",17,"031","560700",2,2024
+3041975,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-30 02:05:00,"082XX S INGLESIDE AVE",-87.601373,41.745048,"street","street",17,"031","440102",4,4000
+3042020,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-30 03:15:00,"060XX S THROOP ST",-87.657046,41.78413,"street","street",17,"031","670900",1,1008
+3042921,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-31 11:00:00,"039XX N SPAULDING AVE",-87.710435,41.952841,"residence","residence",17,"031","160800",1,1008
+3043308,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-31 21:04:00,"049XX S DREXEL BLVD",-87.603808,41.805342,"street","street",17,"031","390400",2,2009
+3043362,"Chicago","09A","murder and nonnegligent manslaughter",2015-08-31 22:21:00,"004XX N LAWLER AVE",-87.751691,41.888426,"residence","residence",17,"031","251600",2,2006
+3044164,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-01 21:55:00,"061XX W FULLERTON AVE",-87.778448,41.923783,"green space","open space",17,"031","191301",1,1002
+3044295,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 01:00:00,"013XX S KOSTNER AVE",-87.734884,41.863397,"residence","residence",17,"031","290900",4,4015
+3044307,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 01:45:00,"027XX W LEXINGTON ST",-87.694463,41.871988,"street","street",17,"031","837400",2,2029
+3044329,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 02:41:00,"050XX N WINTHROP AVE",-87.657752,41.973924,"street","street",17,"031","031200",3,3007
+3044332,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 02:55:00,"050XX N WINTHROP AVE",-87.657752,41.973924,"street","street",17,"031","031200",3,3007
+3044467,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 09:40:00,"026XX E 74TH PL",-87.559988,41.760301,"street","street",17,"031","431400",1,1007
+3044559,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 12:04:00,"033XX W WALNUT ST",-87.71007,41.885342,"street","street",17,"031","836800",2,2007
+3044783,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 18:03:00,"059XX W DIVERSEY AVE",-87.775158,41.931149,"vehicle parking","open space",17,"031","190602",1,1001
+3044931,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 21:22:00,"068XX S MERRILL AVE",-87.572758,41.770823,"residence","residence",17,"031","430101",3,3001
+3044988,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 22:33:00,"008XX W 68TH ST",-87.646264,41.770627,"street","street",17,"031","681100",1,1002
+3045030,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-02 23:50:00,"007XX N LONG AVE",-87.760595,41.89358,"street","street",17,"031","251500",3,3000
+3045129,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-03 05:35:00,"016XX W 115TH ST",-87.663315,41.68479,"vehicle parking","open space",17,"031","750500",3,3033
+3045652,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-03 19:28:00,"057XX N SHERIDAN RD",-87.655282,41.986296,"street","street",17,"031","030604",3,3000
+3046345,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-04 16:09:00,"102XX S LOWE AVE",-87.639226,41.708243,"street","street",17,"031","730500",3,3024
+3046627,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-04 22:35:00,"011XX S RICHMOND ST",-87.699602,41.867689,"private vehicle","vehicle",17,"031","838600",2,2014
+3046715,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-05 00:21:00,"018XX S DRAKE AVE",-87.713908,41.856035,"street","street",17,"031","292200",2,2011
+3046859,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-05 04:39:00,"016XX N MAYFIELD AVE",-87.772746,41.910284,"street","street",17,"031","250400",3,3010
+3047397,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-05 22:48:00,"002XX N HAMLIN BLVD",-87.720879,41.883751,"green space","open space",17,"031","836800",1,1013
+3047548,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-06 02:29:00,"061XX S COTTAGE GROVE AVE",-87.605994,41.783341,"street","street",17,"031","420500",2,2000
+3047570,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-06 03:02:00,"011XX W RANDOLPH ST",-87.654914,41.88439,"street","street",17,"031","833000",2,2058
+3048569,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-07 12:16:00,"008XX E 81ST ST",-87.604499,41.747633,"street","street",17,"031","440101",2,2006
+3048873,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-07 20:26:00,"031XX W FIFTH AVE",-87.704214,41.878875,"street","street",17,"031","271200",1,1020
+3049133,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-08 05:10:00,"033XX N KEELER AVE",-87.732115,41.942175,"street","street",17,"031","161300",4,4025
+3049834,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-09 06:20:00,"082XX S KENWOOD AVE",-87.591699,41.745403,"other open space","open space",17,"031","834300",1,1018
+3050771,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-10 15:20:00,"016XX N FRANCISCO AVE",-87.699099,41.910757,"street","street",17,"031","240800",1,1007
+3053014,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-13 19:48:00,"084XX S LOOMIS BLVD",-87.658326,41.740369,"street","street",17,"031","711100",3,3010
+3053187,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-14 00:30:00,"083XX S WOOD ST",-87.668092,41.742421,"street","street",17,"031","711200",4,4065
+3053192,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-14 00:43:00,"108XX S MORGAN ST",-87.647382,41.696554,"residence","residence",17,"031","750100",2,2008
+3053228,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-14 02:11:00,"008XX E BOWEN AVE",-87.605666,41.819481,"street","street",17,"031","836400",3,3012
+3053916,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-14 23:04:00,"038XX W VAN BUREN ST",-87.721716,41.875314,"street","street",17,"031","260800",2,2011
+3053927,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-14 23:33:00,"118XX S STATE ST",-87.62271,41.679623,"street","street",17,"031","530200",2,2000
+3054023,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-15 04:48:00,"085XX S BURLEY AVE",-87.545386,41.740498,"residence","residence",17,"031","460200",2,2028
+3054870,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-16 08:00:00,"091XX S YATES BLVD",-87.565807,41.72934,"residence","residence",17,"031","480500",1,1019
+3055413,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-16 22:25:00,"115XX S CHURCH ST",-87.669754,41.683458,"street","street",17,"031","750500",4,4012
+3056178,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-18 00:05:00,"002XX S LARAMIE AVE",-87.754974,41.877858,"street","street",17,"031","252102",1,1000
+3057141,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-19 10:55:00,"035XX W 24TH ST",-87.71309,41.848051,"street","street",17,"031","300700",3,3005
+3057472,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-19 18:47:00,"012XX N KEELER AVE",-87.731237,41.903065,"street","street",17,"031","230600",2,2010
+3057527,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-19 20:01:00,"011XX E 44TH ST",-87.59889,41.814627,"other open space","open space",17,"031","390200",1,1005
+3057854,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 04:28:00,"058XX S LA SALLE ST",-87.629118,41.788447,"street","street",17,"031","834600",4,4041
+3057898,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 07:04:00,"117XX S LA SALLE ST",-87.626376,41.68074,"street","street",17,"031","530200",1,1022
+3057985,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 11:05:00,"084XX S HERMITAGE AVE",-87.666833,41.740432,"street","street",17,"031","711200",3,3000
+3058390,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 21:16:00,"016XX N CENTRAL AVE",-87.765567,41.909881,"street","street",17,"031","250300",3,3015
+3058428,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 22:06:00,"034XX W FLOURNOY ST",-87.71208,41.872708,"other open space","open space",17,"031","271500",1,1005
+3058443,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-20 22:36:00,"101XX S CALUMET AVE",-87.615054,41.709982,"street","street",17,"031","490800",4,4001
+3059049,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-21 19:12:00,"055XX W POTOMAC AVE",-87.76455,41.903965,"street","street",17,"031","250700",3,3003
+3059625,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-22 16:19:00,"092XX S COTTAGE GROVE AVE",-87.604572,41.726256,"street","street",17,"031","440800",2,2016
+3060556,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-23 18:52:00,"055XX W CONGRESS PKWY",-87.763279,41.873843,"street","street",17,"031","252102",3,3005
+3060783,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-24 00:06:00,"092XX S UNIVERSITY AVE",-87.596115,41.72705,"street","street",17,"031","470100",1,1021
+3061195,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-24 16:13:00,"030XX S MICHIGAN AVE",-87.623263,41.838795,"street","street",17,"031","839200",2,2025
+3061637,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-25 09:55:00,"121XX S BISHOP ST",-87.657596,41.673263,"residence","residence",17,"031","530400",2,2014
+3061866,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-25 15:50:00,"058XX S PULASKI RD",-87.722976,41.786423,"street","street",17,"031","620400",3,3011
+3062253,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-26,"001XX N LAPORTE AVE",-87.749067,41.883731,"street","street",17,"031","251800",5,5011
+3062584,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-26 12:45:00,"007XX E 47TH ST",-87.607334,41.809519,"residence","residence",17,"031","843600",1,1001
+3063201,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-27 05:53:00,"011XX W 18TH ST",-87.654407,41.857988,"private vehicle","vehicle",17,"031","310600",1,1021
+3063433,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-27 14:42:00,"039XX W ROOSEVELT RD",-87.723601,41.866194,"street","street",17,"031","843000",2,2032
+3063458,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-27 15:19:00,"096XX S MORGAN ST",-87.648004,41.718672,"street","street",17,"031","730400",1,1011
+3064028,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-28 11:17:00,"001XX N KEDZIE AVE",-87.706184,41.883192,"street","street",17,"031","836800",2,2013
+3064392,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-28 20:08:00,"053XX S ABERDEEN ST",-87.652523,41.797128,"street","street",17,"031","612000",2,2010
+3064397,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-28 20:10:00,"053XX S ABERDEEN ST",-87.652523,41.797128,"street","street",17,"031","612000",2,2010
+3064579,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-29 01:05:00,"003XX W 42ND ST",-87.635568,41.81816,"green space","open space",17,"031","835500",1,1027
+3064591,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-29 01:45:00,"003XX W 42ND ST",-87.635568,41.81816,"green space","open space",17,"031","835500",1,1027
+3064614,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-29 03:35:00,"003XX W 42ND ST",-87.635568,41.81816,"green space","open space",17,"031","835500",1,1027
+3064855,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-29 14:56:00,"072XX S EXCHANGE AVE",-87.564676,41.763936,"vehicle parking","open space",17,"031","430700",2,2008
+3065511,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-30 14:12:00,"107XX S EGGLESTON AVE",-87.634138,41.698878,"other open space","open space",17,"031","491100",2,2018
+3065553,"Chicago","09A","murder and nonnegligent manslaughter",2015-09-30 15:10:00,"015XX N HARDING AVE",-87.725274,41.908928,"street","street",17,"031","230700",4,4018
+3066507,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-01 20:35:00,"034XX W ARMITAGE AVE",-87.712423,41.917336,"street","street",17,"031","221100",3,3021
+3066565,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-01 22:09:00,"014XX N LOREL AVE",-87.759596,41.9063,"street","street",17,"031","250700",1,1012
+3068590,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-04 20:18:00,"068XX S LOOMIS BLVD",-87.659096,41.769784,"residence","residence",17,"031","834900",2,2032
+3069959,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-06 18:19:00,"053XX S SACRAMENTO AVE",-87.698763,41.796569,"private vehicle","vehicle",17,"031","630400",3,3004
+3070063,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-06 20:46:00,"043XX W MAYPOLE AVE",-87.733584,41.884589,"private vehicle","vehicle",17,"031","260300",1,1012
+3070618,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-07 17:18:00,"061XX S ROCKWELL ST",-87.688611,41.78238,"street","street",17,"031","835000",4,4001
+3071443,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-08 20:52:00,"059XX W CHICAGO AVE",-87.773087,41.894742,"street","street",17,"031","251400",3,3001
+3071910,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-09 13:25:00,"049XX W CONGRESS PKWY",-87.747984,41.874032,"other open space","open space",17,"031","252202",5,5010
+3072416,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-10 03:20:00,"011XX N LAWLER AVE",-87.752066,41.900914,"residence","residence",17,"031","251100",4,4006
+3072426,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-10 04:12:00,"004XX N SPRINGFIELD AVE",-87.723462,41.888924,"private vehicle","vehicle",17,"031","231500",5,5014
+3073192,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-11 05:30:00,"054XX S PRAIRIE AVE",-87.619247,41.795652,"private vehicle","vehicle",17,"031","400300",1,1020
+3073833,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-12 03:05:00,"019XX W HARRISON ST",-87.674226,41.874077,"street","street",17,"031","838100",3,3022
+3075129,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-13 21:50:00,"082XX S LAFAYETTE AVE",-87.625647,41.744278,"private vehicle","vehicle",17,"031","842400",2,2035
+3075694,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-14 17:43:00,"077XX S INDIANA AVE",-87.619831,41.753943,"street","street",17,"031","691300",2,2005
+3075933,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-14 23:28:00,"097XX S PEORIA ST",-87.645516,41.716697,"street","street",17,"031","730400",3,3003
+3076759,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-16 01:35:00,"082XX S EVANS AVE",-87.606276,41.745021,"street","street",17,"031","440201",3,3007
+3076854,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-16 08:12:00,"060XX S ABERDEEN ST",-87.652201,41.784645,"street","street",17,"031","680600",1,1009
+3078189,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-18 02:07:00,"106XX S PRAIRIE AVE",-87.617264,41.701329,"private vehicle","vehicle",17,"031","490902",3,3022
+3078509,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-18 16:26:00,"078XX S HONORE ST",-87.669521,41.751291,"private vehicle","vehicle",17,"031","710400",3,3008
+3078793,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-19 00:01:00,"052XX W LE MOYNE ST",-87.757677,41.907666,"street","street",17,"031","250700",1,1003
+3079469,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-19 21:27:00,"003XX S CICERO AVE",-87.745138,41.876581,"gas station","retail",17,"031","252202",5,5000
+3082171,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-23 14:01:00,"087XX S WABASH AVE",-87.622589,41.735809,"street","street",17,"031","440600",2,2002
+3082217,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-23 15:42:00,"076XX S EBERHART AVE",-87.612623,41.756173,"street","street",17,"031","691400",5,5004
+3082470,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-23 21:27:00,"053XX W NORTH AVE",-87.758884,41.909461,"street","street",17,"031","250300",2,2015
+3082596,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-24 00:58:00,"025XX S HARDING AVE",-87.723359,41.845386,"residence","residence",17,"031","300500",2,2010
+3082663,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-24 03:21:00,"051XX N AUSTIN AVE",-87.778203,41.974487,"residence","residence",17,"031","110400",1,1045
+3083063,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-24 17:40:00,"053XX S UNION AVE",-87.642806,41.797363,"street","street",17,"031","843800",2,2025
+3083403,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-25 02:46:00,"045XX W ADAMS ST",-87.738439,41.877825,"street","street",17,"031","260500",1,1010
+3084069,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-26 01:55:00,"048XX W MADISON ST",-87.745928,41.88049,"street","street",17,"031","251800",4,4015
+3084091,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-26 03:03:00,"051XX S MICHIGAN AVE",-87.622629,41.80122,"residence","residence",17,"031","836100",1,1005
+3087094,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-30 14:14:00,"025XX W 70TH ST",-87.68737,41.766453,"street","street",17,"031","660900",2,2010
+3087515,"Chicago","09A","murder and nonnegligent manslaughter",2015-10-31 01:11:00,"078XX S SOUTH SHORE DR",-87.550179,41.753975,"residence","residence",17,"031","431400",3,3010
+3088557,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-01 11:33:00,"041XX W 31ST ST",-87.72835,41.836837,"street","street",17,"031","301803",2,2019
+3089516,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-02 16:15:00,"080XX S DAMEN AVE",-87.673073,41.747982,"street","street",17,"031","710500",4,4012
+3089597,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-02 18:21:00,"073XX S MAY ST",-87.652779,41.76046,"street","street",17,"031","681400",2,2012
+3090064,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-03 11:19:00,"040XX N PULASKI RD",-87.727637,41.95433,"residence","residence",17,"031","160300",2,2000
+3090151,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-03 13:36:00,"032XX W 15TH ST",-87.70718,41.8609,"street","street",17,"031","841500",2,2013
+3090374,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-03 19:28:00,"056XX S ARTESIAN AVE",-87.685218,41.791299,"street","street",17,"031","835100",1,1008
+3091930,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-05 20:42:00,"079XX S ELLIS AVE",-87.60032,41.750659,"street","street",17,"031","440101",1,1005
+3092780,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-07 00:22:00,"014XX N KILDARE AVE",-87.733782,41.906616,"street","street",17,"031","230600",4,4014
+3092854,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-07 03:24:00,"011XX N PULASKI RD",-87.726278,41.901862,"street","street",17,"031","231200",5,5008
+3093362,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-07 21:31:00,"022XX W 59TH ST",-87.680139,41.786553,"street","street",17,"031","835100",1,1016
+3093415,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-07 23:22:00,"007XX W 59TH ST",-87.642935,41.787059,"private vehicle","vehicle",17,"031","834700",3,3035
+3094464,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-09 14:25:00,"003XX E 120TH PL",-87.616182,41.675383,"street","street",17,"031","530600",1,1012
+3095098,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-10 15:15:00,"033XX W 61ST ST",-87.706968,41.782553,"residence","residence",17,"031","660400",1,1013
+3095501,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-11 07:00:00,"008XX N CENTRAL AVE",-87.765442,41.896173,"residence","residence",17,"031","251300",2,2012
+3096043,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-11 22:36:00,"001XX E 127TH ST",-87.618325,41.663368,"private vehicle","vehicle",17,"031","530600",1,1031
+3096090,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-12 00:57:00,"008XX W EASTWOOD AVE",-87.651032,41.966431,"other open space","open space",17,"031","031501",3,3000
+3096291,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-12 11:10:00,"044XX W MONROE ST",-87.736407,41.879634,"residence","residence",17,"031","260500",1,1003
+3097682,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-14 13:04:00,"076XX N MARSHFIELD AVE",-87.671912,42.019974,"green space","open space",17,"031","010100",2,2011
+3100125,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-18 00:37:00,"012XX W 73RD PL",-87.655498,41.760484,"street","street",17,"031","671800",1,1025
+3100250,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-18 09:36:00,"002XX W 112TH ST",-87.628977,41.690699,"residence","residence",17,"031","491300",4,4014
+3102047,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-20 21:08:00,"070XX S CALUMET AVE",-87.616898,41.766837,"private vehicle","vehicle",17,"031","690400",2,2020
+3102173,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-21 01:37:00,"012XX W 71ST PL",-87.656021,41.764118,"street","street",17,"031","671800",1,1003
+3102549,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-21 20:31:00,"062XX S ROCKWELL ST",-87.688551,41.780294,"street","street",17,"031","835000",4,4010
+3102961,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-22 17:28:00,"009XX W 71ST ST",-87.648536,41.765141,"street","street",17,"031","681100",3,3012
+3103053,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-22 20:34:00,"054XX W RACE AVE",-87.76214,41.889993,"street","street",17,"031","251500",4,4023
+3103073,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-22 21:18:00,"057XX S UNION AVE",-87.642618,41.790255,"street","street",17,"031","834700",3,3022
+3103626,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-23 18:53:00,"056XX W BYRON ST",-87.767776,41.951324,"street","street",17,"031","150600",1,1011
+3104415,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-25 02:56:00,"057XX S MORGAN ST",-87.6499,41.789659,"street","street",17,"031","834700",2,2012
+3104984,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-26 00:06:00,"033XX W VAN BUREN ST",-87.71013,41.875458,"street","street",17,"031","271300",1,1018
+3105277,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-26 14:29:00,"022XX W THOME AVE",-87.685325,41.995078,"street","street",17,"031","020901",3,3017
+3105474,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-26 21:30:00,"019XX W HARRISON ST",-87.674226,41.874077,"healthcare","healthcare",17,"031","838100",3,3022
+3105637,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-27 05:00:00,"078XX S MARYLAND AVE",-87.603998,41.752669,"street","street",17,"031","691500",3,3007
+3105808,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-27 13:58:00,"000XX N HAMLIN BLVD",-87.720764,41.881089,"private vehicle","vehicle",17,"031","260100",1,1021
+3106582,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-28 17:45:00,"066XX S MARSHFIELD AVE",-87.665312,41.773075,"other open space","open space",17,"031","671500",1,1002
+3106717,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-28 21:18:00,"023XX S CALIFORNIA AVE",-87.695359,41.848757,"street","street",17,"031","301200",3,3005
+3106814,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-29 00:17:00,"115XX S PERRY AVE",-87.625303,41.684115,"residence","residence",17,"031","530200",1,1007
+3106847,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-29 02:15:00,"053XX S UNION AVE",-87.642801,41.797144,"private vehicle","vehicle",17,"031","843800",2,2025
+3106980,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-29 09:17:00,"065XX S SANGAMON ST",-87.648315,41.775269,"residence","residence",17,"031","681000",3,3000
+3107302,"Chicago","09A","murder and nonnegligent manslaughter",2015-11-29 20:16:00,"009XX W 59TH ST",-87.649041,41.786967,"other open space","open space",17,"031","834800",1,1008
+3108074,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-01 01:52:00,"008XX E 83RD ST",-87.603309,41.743998,"street","street",17,"031","440102",4,4004
+3108502,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-01 18:43:00,"047XX N KIMBALL AVE",-87.713337,41.967465,"street","street",17,"031","140701",2,2009
+3109456,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-03 05:53:00,"120XX S MICHIGAN AVE",-87.620414,41.674721,"street","street",17,"031","530600",3,3022
+3110455,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-04 16:24:00,"041XX W 21ST ST",-87.728524,41.853446,"street","street",17,"031","292500",2,2012
+3110580,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-04 19:48:00,"051XX S TROY ST",-87.702516,41.799842,"street","street",17,"031","630400",4,4006
+3110878,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-05 07:06:00,"008XX N AVERS AVE",-87.722427,41.895875,"street","street",17,"031","231200",3,3013
+3111570,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-06 07:11:00,"010XX W 50TH ST",-87.651764,41.803317,"private vehicle","vehicle",17,"031","611000",1,1007
+3113833,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-09 15:44:00,"048XX W GLADYS AVE",-87.745335,41.875877,"street","street",17,"031","252202",5,5004
+3114552,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-10 17:30:00,"065XX N HOYNE AVE",-87.682642,42.000176,"residence","residence",17,"031","020500",3,3003
+3115435,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-11 22:48:00,"007XX W 92ND ST",-87.642505,41.726951,"street","street",17,"031","730100",3,3008
+3115946,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-12 17:18:00,"071XX S CARPENTER ST",-87.650462,41.764656,"street","street",17,"031","681400",4,4002
+3116423,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-13 10:41:00,"072XX S MAY ST",-87.652842,41.762801,"street","street",17,"031","681400",2,2005
+3117572,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-15 02:48:00,"034XX W LAWRENCE AVE",-87.714928,41.968384,"street","street",17,"031","140701",2,2001
+3118328,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-16 04:45:00,"017XX N LUNA AVE",-87.76432,41.912161,"residence","residence",17,"031","250300",3,3008
+3118968,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-17 00:42:00,"005XX E MARQUETTE RD",-87.612711,41.774837,"street","street",17,"031","420700",3,3006
+3119124,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-17 09:43:00,"068XX S ANTHONY AVE",-87.614578,41.770126,"commercial vehicle","vehicle",17,"031","690500",1,1002
+3119395,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-17 17:15:00,"083XX S ADA ST",-87.657159,41.742297,"private vehicle","vehicle",17,"031","711100",1,1005
+3119418,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-17 17:53:00,"077XX S WINCHESTER AVE",-87.672002,41.753083,"street","street",17,"031","710400",5,5015
+3121034,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-20 06:42:00,"054XX S LAFLIN ST",-87.662188,41.795212,"private vehicle","vehicle",17,"031","611900",1,1023
+3121036,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-20 06:52:00,"052XX S GREEN ST",-87.646512,41.799227,"residence","residence",17,"031","612100",1,1018
+3121551,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-21 00:35:00,"054XX W HIRSCH ST",-87.762954,41.90579,"street","street",17,"031","250700",5,5015
+3121845,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-21 15:19:00,"014XX W WABANSIA AVE",-87.663201,41.91335,"street","street",17,"031","842300",1,1005
+3123150,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-23 14:30:00,"011XX N LECLAIRE AVE",-87.753293,41.900939,"street","street",17,"031","251100",4,4005
+3123322,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-23 18:35:00,"010XX N LAMON AVE",-87.748349,41.898883,"residence","residence",17,"031","251100",1,1008
+3123921,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-24 16:50:00,"073XX S VERNON AVE",-87.613951,41.761253,"street","street",17,"031","690900",5,5010
+3124004,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-24 19:09:00,"003XX W 111TH PL",-87.630995,41.691584,"street","street",17,"031","491300",4,4003
+3124387,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-25 12:24:00,"071XX S UNION AVE",-87.641532,41.764737,"street","street",17,"031","681300",2,2011
+3125090,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-26 19:47:00,"006XX S TRIPP AVE",-87.73153,41.873028,"street","street",17,"031","261000",1,1002
+3125201,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-26 22:40:00,"028XX W 21ST ST",-87.696855,41.853733,"street","street",17,"031","840700",1,1006
+3125299,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-27 02:16:00,"059XX S WENTWORTH AVE",-87.630307,41.786969,"street","street",17,"031","834600",4,4059
+3125368,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-27 06:05:00,"059XX S WENTWORTH AVE",-87.630307,41.786969,"street","street",17,"031","834600",4,4059
+3125523,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-27 14:05:00,"003XX W 116TH ST",-87.630469,41.683408,"street","street",17,"031","530200",4,4038
+3125844,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-28 00:01:00,"045XX N SHERIDAN RD",-87.654773,41.964235,"residence","residence",17,"031","031502",2,2003
+3126869,"Chicago","09A","murder and nonnegligent manslaughter",2015-12-29 22:39:00,"090XX S GREENWOOD AVE",-87.597408,41.730604,"street","street",17,"031","470100",2,2034
