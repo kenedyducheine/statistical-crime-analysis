@@ -1,0 +1,121 @@
+---
+title: "Vancouver code"
+output: html_notebook
+---
+
+
+```{r}
+library(lubridate) 
+library(sf)
+install.packages("spacetime")
+library(spacetime)
+library(tidyverse)
+install.packages("crimedata")
+library(crimedata)
+library(zoo)
+library(INLA) ### install.packages("INLA", repos = c(getOption("repos"), INLA = "https://inla.r-inla-download.org/R/stable"), dep = TRUE)
+install.packages("INLAspacetime")
+install.packages("inlabru")
+install.packages("stelfi")
+install.packages("spatstat")
+
+library(INLAspacetime)
+library(inlabru) 
+library(stelfi)
+library(spatstat)
+```
+
+```{r}
+data = read.csv("vanhomi.csv")
+x <- data$Latitude-min(data$Latitude) 
+y <- data$Longitude-min(data$Longitude) 
+
+df = df<-data.frame(x = x,y=y)
+print(head(df))
+```
+
+```{r}
+df %>% ggplot(aes(x=x,y=y)) + 
+  geom_point() + 
+  theme_bw() + ggtitle("Homicide Locations in Chicago (2015)")
+
+```
+```{r}
+df_spat <- data.frame(x=df$x,y=df$y) 
+print(df_spat)
+
+w <- as.owin(list(xrange=c(0,0.365), yrange=c(0,.298814)))
+ ## window: rectangle = [0, 0.365] x [0, 0.298814] units
+
+df_ppp <- as.ppp(df_spat,W=w)
+## planar point pattern is standard for spaital analysis
+
+
+### ppp 
+fit <- ppm(df_ppp ~ polynom(x, y, 3)) ## fitting a cubic model to the planar point pattern 
+summary(fit) 
+
+#Get fitted intensity at each point
+lambda_hat <- predict(fit, locations = df_ppp) 
+```
+Inhomogenous K function
+```{r}
+
+K_inhom <- Kinhom(df_ppp, lambda = lambda_hat, correction = "iso") ## estimates k function of non-homogenous point pattern
+plot(K_inhom, main = "Inhomogenous K function") 
+plot(predict(fit)) 
+
+diff <- K_inhom$iso - K_inhom$theo
+print(mean(diff))
+
+
+```
+Homogenous K function
+```{r}
+K_hom <- Kest(df_ppp, correction = "iso") 
+print(K_hom)
+plot(K_hom, main = "Homogenous K function")
+
+
+diff <- K_hom$iso - K_hom$theo
+print(mean(diff))
+
+
+```
+
+```{r}
+points_spat <- sf::st_as_sf(df,coords=c("x","y")) ## this converts x and y into spaitial data
+
+conv_hull <- points_spat %>% ## convex hull 
+  summarise() %>%
+  st_convex_hull()
+
+plot(smesh)
+plot(conv_hull, border = "red", lwd = 2, add = TRUE)
+points(cbind(df$x, df$y), pch = 10, col = "blue")
+
+st_length(st_cast(conv_hull, "LINESTRING"))
+
+```
+
+```{r}
+## vancouver
+library(leaflet)
+
+raw <- read.csv("vanhomi.csv")
+
+leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(lng = raw$Longitude, lat = raw$Latitude,
+                   radius = 2, color = "blue") %>%
+  addPolygons(lng = st_coordinates(st_convex_hull(
+                st_union(st_as_sf(raw, coords = c("Longitude", "Latitude"), crs = 4326))))[,1],
+              lat = st_coordinates(st_convex_hull(
+                st_union(st_as_sf(raw, coords = c("Longitude", "Latitude"), crs = 4326))))[,2],
+              color = "red", weight = 2, fillOpacity = 0.1)
+  
+```
+
+
+
+
